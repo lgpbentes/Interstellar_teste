@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Interstellar_teste</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_listagem_dados">listagem_dados</string>
+</resources>
